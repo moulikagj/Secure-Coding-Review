@@ -15,7 +15,7 @@ Vulnerabilities Reviewed
 1. Hardcoded secrets
 2. Plain-text password handling
 3. SQL injection
-4. Debug mode exposure
+4. insecure debug configaration
 
 Security Improvements
 
